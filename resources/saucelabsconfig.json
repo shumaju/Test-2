@@ -1,0 +1,132 @@
+{
+  	"chrome": 
+	{
+	"boolean": {
+	  "acceptInsecureCerts": false,
+      "acceptSslCerts": true,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "hasTouchScreen": false,
+      "javascriptEnabled": true,
+      "locationContextEnabled": true,
+      "mobileEmulationEnabled": false,
+      "nativeEvents": true,
+      "networkConnectionEnabled": false,
+      "rotatable": false,
+      "setWindowRect": true,
+      "takesHeapSnapshot": true,
+      "takesScreenshot": false,
+      "webStorageEnabled": true
+	},
+	"nonboolean": {
+      "browserName": "chrome",
+      "pageLoadStrategy": "normal",
+      "platform": "Windows 10",
+      "version": "latest",
+      "parentTunnel": "ABNAMRO_Admin",
+      "tunnelIdentifier": "ipsec-abnamro",
+      "username": "TAABNAMRO"
+	}
+	},
+	"InternetExplorer": 
+	{
+	"boolean": {
+	  "acceptInsecureCerts": false,
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "hasTouchScreen": false,
+      "javascriptEnabled": true,
+      "locationContextEnabled": true,
+      "mobileEmulationEnabled": false,
+      "nativeEvents": true,
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platform": "Windows 10",
+      "rotatable": false,
+      "setWindowRect": true,
+      "takesHeapSnapshot": true,
+      "takesScreenshot": true,
+      "webStorageEnabled": true
+	},
+	"nonboolean": {
+      "browserName": "Internet Explorer",
+      "pageLoadStrategy": "normal",
+      "platform": "Windows 10",
+       "version": "latest",
+      "parentTunnel": "ABNAMRO_Admin",
+      "tunnelIdentifier": "ipsec-abnamro",
+      "username": "TAABNAMRO"
+	}
+	},
+	"firefox": 
+	{
+	"boolean": {
+	  "acceptInsecureCerts": false,
+      "acceptSslCerts": true,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "hasTouchScreen": false,
+      "javascriptEnabled": true,
+      "locationContextEnabled": true,
+      "mobileEmulationEnabled": false,
+      "nativeEvents": true,
+      "networkConnectionEnabled": false,
+      "rotatable": false,
+      "setWindowRect": true,
+      "takesHeapSnapshot": true,
+      "takesScreenshot": false,
+      "webStorageEnabled": true
+	},
+	"nonboolean": {
+      "browserName": "firefox",
+      "pageLoadStrategy": "normal",
+      "platform": "Windows 10",
+      "version": "latest",
+      "parentTunnel": "ABNAMRO_Admin",
+      "tunnelIdentifier": "ipsec-abnamro",
+      "username": "TestAutomation@nl.abnamro.com"
+	}
+	},
+	"Edge": 
+	{
+	"boolean": {
+	  "acceptInsecureCerts": false,
+      "acceptSslCerts": true,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "hasTouchScreen": false,
+      "javascriptEnabled": true,
+      "locationContextEnabled": true,
+      "mobileEmulationEnabled": false,
+      "nativeEvents": true,
+      "networkConnectionEnabled": false,
+      "rotatable": false,
+      "setWindowRect": true,
+      "takesHeapSnapshot": true,
+      "takesScreenshot": false,
+      "webStorageEnabled": true
+	},
+	"nonboolean": {
+      "browserName": "MicrosoftEdge",
+      "pageLoadStrategy": "normal",
+      "platform": "Windows 10",
+      "version": "latest",
+      "parentTunnel": "ABNAMRO_Admin",
+      "tunnelIdentifier": "ipsec-abnamro",
+      "username": "TAABNAMRO"
+	}
+	}
+}
